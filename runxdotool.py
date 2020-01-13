@@ -2,7 +2,7 @@
 #
 #       runxdotool.py
 #       
-#       Copyright 2010 esbat <esbat@esbat-laptop>
+#       Copyright 2010 esbat <esbatmop@gmail.com>
 #       
 #       This program is free software; you can redistribute it and/or modify
 #       it under the terms of the GNU General Public License as published by
