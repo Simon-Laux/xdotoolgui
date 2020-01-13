@@ -4,3 +4,11 @@ Continue the development of this nice project ogiginaly made by **esbat** <esbat
 
 
 initial sources downloaded from https://sourceforge.net/projects/xdotool-gui/
+
+
+## Development
+
+first time: `create_virtualenv.sh`
+then open the virtual enviroment via
+`source .venv/bin/activate`
+run `python xdotoolgui.py`

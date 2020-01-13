@@ -18,9 +18,9 @@
 #       along with this program; if not, write to the Free Software
 #       Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #       MA 02110-1301, USA.
-import gtk, subprocess, time, string
+import subprocess, time, string
 def AddCommandToRun(CommandPath):
-    print CommandPath
+    print(CommandPath)
     afile = open(CommandPath)
     ParamsForCommand = afile.read().split("\n")
     for s in ParamsForCommand:
